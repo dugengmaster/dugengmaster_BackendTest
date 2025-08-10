@@ -1,6 +1,6 @@
 ﻿namespace 黃昱憲_BackendTest.Models
 {
-    public class MyOfficeACPD
+    public class MyOfficeACPDModel
     {
         public string ACPD_SID { get; set; } = string.Empty;
         public string? ACPD_Cname { get; set; }
