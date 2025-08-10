@@ -1,0 +1,6 @@
+@黃昱憲_BackendTest_HostAddress = http://localhost:5247
+
+GET {{黃昱憲_BackendTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
